@@ -1,0 +1,19 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,ESPRESSO BEANS,"  1000  	",Gram,$12.00 
+ING002,  Whole  Milk  ,1000,ML, 1.2 USD 
+ING003,"""CHEDDAR""",500,Gram, 7.45 USD 
+ING004,"""  mozzarella  """," 500 	",GRAMS,$5.00 
+ING005,"whipped cream	",300,mL, 1.35 USD 
+ING006,"""Vanilla  syrup""",1000, ml ,$14.52 
+ING007,  barista  chocolate  syrup  ,""" 1000 """,mL,$8.49 
+ING008,Barista white chocolate syrup,"""1000""	",milliliters, 8.49 USD 
+ING009,"Barista  caramel  sauce	",1000,"""ml""", 8.49 USD 
+ING010,Sugar,1000, grms ,$1.50 
+ING011,Panini Bread,4,"""UNITS"""," "" 1.35 "" USD "
+ING012,cocoa powder,1000, grms ,"$"" 22.0 """
+ING013,"""CHOCOLATE""",1000,Gram," ""  10.5  "" USD "
+ING014,  lemons  ,5,"""UNITS""", 1.5 USD 
+ING015,Ham,"""1000""",GRAMS,$27.50 
+ING016,Salami,1000,g,"$""15.49"""
+ING017, Black Tea ,1000, grms ,$16.00 
+ING018,Vanilla extract,"60	",mL,$9.99 

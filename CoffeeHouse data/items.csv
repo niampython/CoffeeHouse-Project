@@ -1,0 +1,38 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,3.45
+It002,HDR-CAP-LG,Cappuccino,hot drinks ,large ,$3.75 
+It003,HDR-LAT-MD,Latte, HOT DRINKS, MED,3.45
+It004,HDR-LAT-LG,Latte,Hot beverage,Lrg.,3.75 USD
+It005,HDR-FLT,Flat White,Hot_Drinks,Not Applicable,$3.15 
+It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,4.2
+It007,HDR-CRM-LG,Caramel Macchiato,hot drinks ,large ,$4.60 
+It008,HDR-ESP,Espresso, HOT DRINKS,,2.15
+It009,HDR-MOC-MD,Mocha,Hot beverage,Med.,4.00 USD
+It010,HDR-MOC-LG,Mocha,Hot_Drinks,L,$4.60 
+It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,4.5
+It012,HDR-WMO-LG,White Mocha,hot drinks ,large ,$4.70 
+It013,HDR-HCH-MD,Hot Chocolate, HOT DRINKS, MED,4.2
+It014,HDR-HCH-LG,Hot Chocolate,Hot beverage,Lrg.,4.60 USD
+It015,CDR-CCF-MD,Cold Coffee,Cold_Drinks,M,$3.45 
+It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,3.75
+It017,CDR-CMO-MD,Cold Mocha,cold drinks ,medium ,$4.00 
+It018,CDR-CMO-LG,Cold Mocha, COLD DRINKS, LG,4.6
+It019,CDR-ICT-MD,Iced Tea,Cold beverage,Med.,3.25 USD
+It020,CDR-ICT-LG,Iced Tea,Cold_Drinks,L,$3.55 
+It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,3.35
+It022,CDR-LMN-LG,Lemonade,cold drinks ,large ,$3.75 
+It023,SNK-SHC,Sandwich Ham&Cheese, SNACKS,,5.6
+It024,SNK-SSM,Sandwich Salami&Mozzarella,Snack,NA,5.50 USD
+ it025,BRK-BGL,Bagel,Bakery ,single,2.25
+IT026 ,ADD-AVC,Avacado,add ons,N/A,1.5
+It027,ADD-CRMCHZ,Cream Cheese,Add Ons ,Cup,0.95
+IT028,BKY-CHP-CK,Chocolate Chip Cookie,bakery,Each ,2.75
+It029,SNK-TKYCHS-SW,Turkey and Cheese Sandwhich,Sandwiches,N/A,6.95
+It030 ,BRK-EGG-SG-CR,Egg Sausage and Cheese Crossaint,breakfast ,Each,5.95
+it031,HDR-GRN-TEA,Hot Green Tea,HOT drinks,Medium ,3.1
+IT032,HDR-BLK-TEA,Hot Black Tea,Hot Drinks ,MED,3
+It033,CDR-CHOC-PRO,Chocolate Protein Drink,cold drink,bottle,4.95
+IT034 ,SNK-PEC-BAG,Bag of Pecans,snacks,bag ,3.65
+It035,SNK-CHO-ALM,Chocolate Covered Almonds,Snack,Bag,4.25
+it036,SNK-DRY-BLU,Dried Blueberries,SNACKS ,bag,3.85
+IT037,SNK-PMP,Pumpkin seeds,seasonal snack,Single,2.5
