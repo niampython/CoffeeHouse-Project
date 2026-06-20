@@ -25,11 +25,10 @@ The objective of this project was to build a modern cloud data platform that:
 
 # 🏗️ Architecture
 
-```
 <h2 align="center">🏗️ Solution Architecture</h2>
 
 <p align="center">
-  <img src="images/Coffee House Data Engineer Project Data Flow.png"
+  <img src="images/architecture-diagram.png"
        alt="Coffee House Data Engineering Architecture"
        width="1200">
 </p>
@@ -37,6 +36,8 @@ The objective of this project was to build a modern cloud data platform that:
 <p align="center">
   <em>Figure 1: End-to-End Azure Data Engineering Pipeline using Medallion Architecture (Bronze → Silver → Gold).</em>
 </p>
+
+---
 ```
 
 ---
