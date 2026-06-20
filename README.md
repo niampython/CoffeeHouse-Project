@@ -23,6 +23,8 @@ The objective of this project was to build a modern cloud data platform that:
 
 ---
 
+# 🏗️ Architecture
+
 <h2 align="center">🏗️ Solution Architecture</h2>
 
 <p align="center">
@@ -35,7 +37,7 @@ The objective of this project was to build a modern cloud data platform that:
   <em>Figure 1: End-to-End Azure Data Engineering Pipeline using Medallion Architecture (Bronze → Silver → Gold).</em>
 </p>
 
-```
+---
 
 ---
 
