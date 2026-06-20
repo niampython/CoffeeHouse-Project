@@ -25,8 +25,6 @@ The objective of this project was to build a modern cloud data platform that:
 
 # 🏗️ Architecture
 
-<h2 align="center">🏗️ Solution Architecture</h2>
-
 <p align="center">
   <img src="images/architecture-diagram.png"
        alt="Coffee House Data Engineering Architecture"
