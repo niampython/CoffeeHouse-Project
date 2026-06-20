@@ -37,8 +37,6 @@ The objective of this project was to build a modern cloud data platform that:
 
 ---
 
----
-
 # 🏛️ Data Architecture
 
 This project follows the Medallion Architecture:
