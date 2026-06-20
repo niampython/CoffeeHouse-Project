@@ -25,35 +25,18 @@ The objective of this project was to build a modern cloud data platform that:
 
 # 🏗️ Architecture
 
-```text
-API Source
-     │
-     ▼
-Azure Data Factory
-(HTTP + Lookup + ForEach + Copy Activity)
-     │
-     ▼
-Bronze Layer
-(Azure Data Lake Gen2)
-     │
-     ▼
-Azure Databricks
-(PySpark Transformations)
-     │
-     ▼
-Silver Layer
-(Azure Data Lake Gen2)
-     │
-     ▼
-Azure Synapse Analytics
-(Views + External Tables)
-     │
-     ▼
-Gold Layer
-(SQL Endpoint)
-     │
-     ▼
-Power BI Dashboard
+```
+<h2 align="center">🏗️ Solution Architecture</h2>
+
+<p align="center">
+  <img src="images/Coffee House Data Engineer Project Data Flow.png"
+       alt="Coffee House Data Engineering Architecture"
+       width="1200">
+</p>
+
+<p align="center">
+  <em>Figure 1: End-to-End Azure Data Engineering Pipeline using Medallion Architecture (Bronze → Silver → Gold).</em>
+</p>
 ```
 
 ---
