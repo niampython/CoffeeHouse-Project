@@ -324,21 +324,10 @@ Built interactive dashboards to visualize:
 
 ---
 
-# Add Dashboard Screenshot
-
-Create a folder in your repository:
-
-```text
-images/
-└── powerbi-dashboard.png
-```
-
-Then include the image:
-
 ```markdown
 ## Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](images/Power_Bi_Dashboard.png)
 ```
 
 ---
