@@ -316,20 +316,6 @@ Purpose:
 
 ---
 
-```markdown
-## Power BI Dashboard
-
-<p align="center">
-  <img src="images/Power_Bi_Dashboard.png"
-       alt="Coffee House Power BI Dashboard"
-       width="1000">
-</p>
-
-<p align="center">
-  <em>Figure 2: Interactive Power BI dashboard built on top of Azure Synapse Gold Layer datasets.</em>
-</p>
-
----
 
 # 📂 Project Structure
 
