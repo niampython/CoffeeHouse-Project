@@ -1,0 +1,50 @@
+[
+    {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/ingredients.csv",
+        "p_sink_folder" : "ingredients",
+        "p_sink_file" : "ingredients.csv"
+    },
+    {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/inventory.csv",
+        "p_sink_folder" : "inventory",
+        "p_sink_file" : "inventory.csv"
+    },
+
+     {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/items.csv",
+        "p_sink_folder" : "items",
+        "p_sink_file" : "items.csv" 
+    },
+
+     {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/orders.csv",
+        "p_sink_folder" : "orders",
+        "p_sink_file" : "orders.csv"
+    },
+
+     {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/recipe.csv",
+        "p_sink_folder" : "recipe",
+        "p_sink_file" : "recipe.csv"
+    },
+
+     {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/rota.csv",
+        "p_sink_folder" : "rota",
+        "p_sink_file" : "rota.csv"
+    },
+
+     {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/shift.csv",
+        "p_sink_folder" : "shift",
+        "p_sink_file" : "shift.csv"
+    },
+    {
+        "p_rel_url" : "niampython/CoffeeHouse-Project/refs/heads/main/CoffeeHouse%20data/staff.csv",
+        "p_sink_folder" : "staff",
+        "p_sink_file" : "staff.csv" 
+    }
+
+
+
+]
